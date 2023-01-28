@@ -13,7 +13,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="images/logo.png" alt="Logo" width="564" height="564">
+    <img src="https://imgur.com/a/rZjpFa7" alt="wildin">
 
 
   <h3 align="center">My Profile</h3>
