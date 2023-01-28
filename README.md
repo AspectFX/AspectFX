@@ -14,7 +14,8 @@
 <br />
 <div align="center">
     <img src="images/logo.jpg" alt="Logo" width="564" height="564">
-  </a>
+  </a>![logo](https://user-images.githubusercontent.com/117581186/215243029-555a1a1d-f00a-4f75-bdc3-06c2d7a637e7.jpg)
+
 
   <h3 align="center">My Profile</h3>
 
