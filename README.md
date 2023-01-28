@@ -64,13 +64,13 @@
 <!-- ABOUT THE PROJECT -->
 ## About Me
 
-[![A Interesting Video][product-screenshot]](https://www.youtube.com/watch?v=QB7ACr7pUuE)
+A Interesting Video: (https://www.youtube.com/watch?v=QB7ACr7pUuE)
 
 My Name (Online Name just in case you are confused) is AspectFX/Prokid999 And I am a github user that codes stuff and does stupid things sometimes.
 
 List of my accomplishments/skills so far:
-* I am the person who pioneered and popularized hacking on eaglercraft: (https://github.com/eaglerarchive/eaglercraft1.5.2-final) (I don't recommend hacking btw, it's just something I did)
-* Average VsCode and Linux User
+* I am the person who pioneered and popularized hacking on eaglercraft: (https://github.com/eaglerarchive/eaglercraft1.5.2-final) (I don't recommend hacking by the way, it's just something I did when back when I was thinking hacking was fun). And it's not as fun anymore, that's why I only hack on anarchy servers and other servers that allow hacking. But I could also get banned from them from time to time lmfao 💀to the admins running them tbh,
+* Average VsCode and Linux User (I really only used them recently and I don't know that much commands, just enough to get by)
 * Python and HTML/JS Experience, and messed around with some Lua just because I wanted to try it
 
 My Discord is: !Glitched;+-#1080 Don't Worry If you can't dm me it means I changed usernames, Just wait until I update this page, it will happen lol.
