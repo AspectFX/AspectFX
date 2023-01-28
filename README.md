@@ -63,7 +63,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About Me
 
 [![A Interesting Video][product-screenshot]](https://www.youtube.com/watch?v=QB7ACr7pUuE)
 
