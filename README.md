@@ -107,7 +107,7 @@ Distributed under the Creative Commons license
 
 
 <!-- CONTACT -->
-## Contact, Only an alt gmail in case people find me somehow.
+## Contacts, using an alt gmail in case any shit here get's dmcaed (I don't want a lawsuit up my ass)
 
  thesexysarahxd@gmail.com or !Glitched;+-#1080
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
