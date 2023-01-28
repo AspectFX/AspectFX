@@ -69,7 +69,7 @@
 My Name (Online Name just in case you are confused) is AspectFX/Prokid999 And I am a github user that codes stuff and does stupid things sometimes.
 
 List of my accomplishments/skills so far:
-* I am the person who pioneered and popularized hacking on eaglercraft(https://github.com/AspectFX/eaglercraft) (I don't recommend hacking btw, it's just something I did)
+* I am the person who pioneered and popularized hacking on eaglercraft: (https://github.com/eaglerarchive/eaglercraft1.5.2-final) (I don't recommend hacking btw, it's just something I did)
 * Average VsCode and Linux User
 * Python and HTML/JS Experience, and messed around with some Lua just because I wanted to try it
 
