@@ -13,7 +13,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="images/logo.jpg" alt="Logo" width="564" height="564">
+    <img src="images/logo.png" alt="Logo" width="564" height="564">
 
 
   <h3 align="center">My Profile</h3>
