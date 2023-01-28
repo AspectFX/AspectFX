@@ -13,7 +13,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="https://imgur.com/a/rZjpFa7" alt="wildin">
+    <h2>HTML Image</h2>
+<img src="image.jpg" alt="Girl in a jacket" width="564" height="564">
 
 
   <h3 align="center">My Profile</h3>
